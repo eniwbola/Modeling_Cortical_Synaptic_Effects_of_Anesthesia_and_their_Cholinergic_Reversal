@@ -1,4 +1,4 @@
-# Modeling_Cortical_Synaptic_Effects_of_Anesthesia_and_their_Cholinergic_Reversal
+# Modeling Cortical Synaptic Effects of Anesthesia and their Cholinergic Reversal
 Modeling and Analysis code for study "Modeling Cortical Synaptic Effects of Anesthesia and their Cholinergic Reversal
 
 ## richneuromod_multi_stim_2_mg_nmda_model_book_tot_fix_log_norm_dc_min_noise_variable_syn_net_ruin.cpp
