@@ -1,6 +1,6 @@
 # Modeling Cortical Synaptic Effects of Anesthesia and their Cholinergic Reversal
 
-Modeling and Analysis code for study "Modeling Cortical Synaptic Effects of Anesthesia and their Cholinergic Reversal
+Modeling and Analysis code for study "Modeling Cortical Synaptic Effects of Anesthesia and their Cholinergic Reversal"
 
 ## anesthetic_sim.cpp
 cpp file for simulating model/all simulation spike trains.
