@@ -6,14 +6,14 @@ Modeling and Analysis code for study "Modeling Cortical Synaptic Effects of Anes
 cpp file for simulating model/all simulation spike trains.
 
 ## simulation_send.batch
-batch file that send file to clusther, this can rwmoved if doing this locatlly
+batch file that sends file to cluster, this can removed if doing this locally
 
 ## simulation_control_bash.sh
 This is used to simulated specific paramters for different intial condictions  and network structure
 
 
 ## gen_alg.m
-  This file evaluates the new simualations by comparing them to the experimental data and then generatesa new set of paramters
+This file evaluates the new simualations by comparing them to the experimental data and then generatesa new set of paramters
 
 ## gen_alg_bash_control.sh
 
