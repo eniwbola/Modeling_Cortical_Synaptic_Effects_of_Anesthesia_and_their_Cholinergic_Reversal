@@ -13,4 +13,12 @@ Modeling and Analysis code for study "Modeling Cortical Synaptic Effects of Anes
 
 ## gen_alg_bash_control.sh
 
+## BaseTS 
+Raw spike data used 
+
+## *_dat_low files
+statistical Analysis of simulation outputs
+
+
+
 
